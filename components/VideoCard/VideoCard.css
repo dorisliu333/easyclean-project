@@ -1,0 +1,58 @@
+.h31{
+    color: rgb(41, 43, 50);
+    font-family: museo-bold, "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 24px;
+    font-weight: initial;
+    line-height: 32px;
+    letter-spacing: -0.15px;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    text-decoration: initial;
+    text-align: center;
+    vertical-align: initial;
+    font-style: initial;
+    white-space: initial;
+    margin: 0px 0px 8px;
+    padding: 0px;
+}
+
+.h51{
+    color: rgb(84, 90, 119);
+    font-family: museo-regular, "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 18px;
+    font-weight: initial;
+    line-height: 24px;
+    letter-spacing: 0.15px;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    text-decoration: initial;
+    text-align: center;
+    vertical-align: initial;
+    font-style: initial;
+    white-space: initial;
+    margin: 0px;
+    padding: 0px;
+}
+
+.img1{
+    border-radius: 4px;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+
+.HText{
+    font-size: 15px;
+    line-height: 22px;
+    margin: 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #545a77;
+    /* color: red; */
+    font-family: museo_sans,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+    font-weight: 300;
+    margin-left: 36px;  
+}

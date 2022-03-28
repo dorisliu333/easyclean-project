@@ -1,0 +1,48 @@
+button{
+    background: transparent;
+    border: none;
+}
+
+.Text{
+    color: rgb(41, 43, 50);
+    font-family: museo-bold, "Helvetica Neue", Helvetica, Arial, "Lucida Grande",sans-serif;
+    font-size: 24px;
+    font-weight: initial;
+    line-height: 32px;
+    letter-spacing: -0.15px;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    text-decoration: initial;
+    text-align: initial;
+    vertical-align: initial;
+    font-style: initial;
+    white-space: initial;
+    /* margin: 0px; */
+    padding: 0px;
+    display: flex;
+    justify-content: flex-start;
+    /* margin-left: 260px; */
+    max-width: 1080px;
+    margin: auto;
+}
+
+
+.container{
+    display: flex;
+    justify-content: flex-start;
+    margin: 18px auto;
+    /* margin-left: 230px; */
+    max-width: 1170px;
+    /* margin: auto; */
+}
+
+
+@media only screen and (max-width: 1180px) {
+    .container{
+        margin-left: 0;
+        /* margin: auto; */
+    }
+    .Text{
+        margin-left: 60px;
+    }
+}

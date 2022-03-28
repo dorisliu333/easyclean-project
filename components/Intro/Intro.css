@@ -1,0 +1,13 @@
+.circle{
+    height: 140px ;
+    width: 140px;
+    border-radius: 70px;
+    background-color: gray;
+    text-align:center;
+    line-height: 140px;
+}
+
+
+.text{
+    text-align:center;
+}

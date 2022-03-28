@@ -1,0 +1,28 @@
+.TopText{
+    padding: 16px 0;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.h41{
+    color: #292b32;
+    font-size: 22px;
+    display: block;
+    font-family: museo_sans,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+}
+
+.p2{
+    font-size: 15px;
+    line-height: 22px;
+    margin: 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #545a77;
+    /* color: red; */
+    font-family: museo_sans,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+    font-weight: 300;   
+}
